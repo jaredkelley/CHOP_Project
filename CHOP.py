@@ -1,3 +1,5 @@
+# this is the python version of the same project
+
 import pandas as pd
 import numpy as np
 
